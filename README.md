@@ -45,26 +45,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hhalsancak70&theme=gruvbox&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhalsancak70&show_icons=true&theme=radical" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhalsancak70&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### ⚡ Fun Fact
 
 > "The quieter you become, the more you are able to hear." – Cybersecurity is all about listening to the silence in the system. 🕵️‍♂️
