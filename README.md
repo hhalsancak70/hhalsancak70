@@ -5,7 +5,6 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: [SmartPanel](https://github.com/hhalsancak70/SmartPanel)  
 - 🌱 I’m currently learning: **Cyber Security**  
 - 📫 Reach me at: **alsancak0371@gmail.com**
 
