@@ -1,45 +1,120 @@
-<h1 align="center">Hi 👋, I'm Alsancak</h1>
-<h3 align="center">👨‍💻 Computer Engineering Student | 🛡️ Cyber Security Enthusiast</h3>
+<div align="center">
+
+```
+ ██╗  ██╗██╗  ██╗ █████╗ ██╗     ███████╗ █████╗ ███╗   ██╗ ██████╗ █████╗ ██╗  ██╗
+ ██║  ██║██║  ██║██╔══██╗██║     ██╔════╝██╔══██╗████╗  ██║██╔════╝██╔══██╗██║ ██╔╝
+ ███████║███████║███████║██║     ███████╗███████║██╔██╗ ██║██║     ███████║█████╔╝ 
+ ██╔══██║██╔══██║██╔══██║██║     ╚════██║██╔══██║██║╚██╗██║██║     ██╔══██║██╔═██╗ 
+ ██║  ██║██║  ██║██║  ██║███████╗███████║██║  ██║██║ ╚████║╚██████╗██║  ██║██║  ██╗
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=Computer+Engineering+Student;Cyber+Security+Enthusiast;DFIR+%7C+Malware+Analysis+%7C+Threat+Hunting;%22The+quieter+you+become%2C+the+more+you+hear%22" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hhalsancak70)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsancak0371@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hhalsancak70)
+
+</div>
 
 ---
 
-### 🚀 About Me
+## `whoami`
 
-- 🌱 I’m currently learning: **Cyber Security**  
-- 📫 Reach me at: **alsancak0371@gmail.com**
+```bash
+$ cat /etc/profile.d/alsancak.sh
+```
 
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/hhalsancak70" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-</p>
+```
+▸ Name        : Hüseyin Alsancak
+▸ Role        : Computer Engineering Student @ Abdullah Gül University
+▸ Focus       : Cyber Security — DFIR · Malware Analysis · Network Security
+▸ Location    : Aksaray, Turkey 🇹🇷
+▸ Currently   : Deepening knowledge in threat detection & incident response
+▸ Goal        : "Find the signal in the noise."
+```
 
 ---
 
-### ⚡ Fun Fact
+## `ls -la ~/projects`
 
-> "The quieter you become, the more you are able to hear." – Cybersecurity is all about listening to the silence in the system. 🕵️‍♂️
+| Repository | Description | Stack |
+|---|---|---|
+| 🔬 [malware-analysis-sandbox-lab](https://github.com/hhalsancak70/malware-analysis-sandbox-lab) | Isolated sandbox for static analysis, IOC extraction, YARA/Sigma rules & Wazuh SIEM | `Python` `YARA` `Wazuh` |
+| 🕵️ [forensics-analysis-lab](https://github.com/hhalsancak70/forensics-analysis-lab) | Professional DFIR analysis toolkit — educational portfolio | `Python` |
+| 🌐 [network-vuln-scanner](https://github.com/hhalsancak70/network-vuln-scanner) | Host discovery, port scanning, service detection & automated risk analysis | `Python` |
+| 🔐 [Secure-Email-System](https://github.com/hhalsancak70/Secure-Email-System-With-End-to-End-Encryption) | End-to-end encrypted email system | `Java` |
+| 🧬 [CRY](https://github.com/hhalsancak70/CRY) | Cryptography implementations | `Python` |
+| ⚙️ [DA](https://github.com/hhalsancak70/DA) | Systems-level project | `C` |
 
 ---
+
+## `cat skills.txt`
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Frameworks & Tools**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Security & DevOps**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+
+---
+
+## `top` — GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=hhalsancak70&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhalsancak70&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=hhalsancak70&theme=chartreuse-dark&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## `echo $QUOTE`
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  "The quieter you become, the more you are able to hear."        ║
+║                                          — Ram Dass              ║
+║                                                                  ║
+║  In cybersecurity: listen to the silence in the system. 🕵️       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=hhalsancak70&label=Profile+Views&color=00ff41&style=flat-square" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>⚡ Defending the digital frontier, one packet at a time.</sub>
+</div>
