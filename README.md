@@ -77,47 +77,7 @@ $ cat /etc/profile.d/alsancak.sh
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
----
 
-## `top` — GitHub Stats
-
-<div align="center">
-
-![Repos](https://img.shields.io/badge/Public%20Repos-19-00ff41?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
-![Stars](https://img.shields.io/badge/Stars%20Given-22-00ff41?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
-![Followers](https://img.shields.io/badge/Followers-4-00ff41?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
-![University](https://img.shields.io/badge/AGU-Computer%20Engineering-00ff41?style=flat-square&logo=academia&logoColor=white&labelColor=0d1117)
-
-</div>
-
-```
- Most Used Languages
- ───────────────────────────────────────────────
- Python     ████████████████████░░░░░  ~60%
- Java       ████████░░░░░░░░░░░░░░░░░  ~20%
- C          ████░░░░░░░░░░░░░░░░░░░░░  ~10%
- Other      ███░░░░░░░░░░░░░░░░░░░░░░  ~10%
- ───────────────────────────────────────────────
-```
-
----
-
-## `echo $QUOTE`
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  "The quieter you become, the more you are able to hear."        ║
-║                                          — Ram Dass              ║
-║                                                                  ║
-║  In cybersecurity: listen to the silence in the system. 🕵️       ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://komarev.com/ghpvc/?username=hhalsancak70&label=Profile+Views&color=00ff41&style=flat-square" alt="Profile Views" />
-
-</div>
 
 ## `cat skills.txt`
 
