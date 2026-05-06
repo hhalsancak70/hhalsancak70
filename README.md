@@ -119,14 +119,6 @@ $ cat /etc/profile.d/alsancak.sh
 
 </div>
 
----
-
-<div align="center">
-<sub>⚡ Defending the digital frontier, one packet at a time.</sub>
-</div>| 📱 [DA](https://github.com/hhalsancak70/DA) | Digital receipt mobile application | `C` |
-
----
-
 ## `cat skills.txt`
 
 **Languages**
