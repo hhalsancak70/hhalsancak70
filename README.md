@@ -47,7 +47,7 @@ $ cat /etc/profile.d/alsancak.sh
 | 🌐 [network-vuln-scanner](https://github.com/hhalsancak70/network-vuln-scanner) | Host discovery, port scanning, service detection & automated risk analysis | `Python` |
 | 🔐 [Secure-Email-System](https://github.com/hhalsancak70/Secure-Email-System-With-End-to-End-Encryption) | End-to-end encrypted email system | `Java` |
 | 🧬 [CRY](https://github.com/hhalsancak70/CRY) | Cryptography implementations | `Python` |
-| ⚙️ [DA](https://github.com/hhalsancak70/DA) | Systems-level project | `C` |
+| 📱 [DA](https://github.com/hhalsancak70/DA) | Digital receipt mobile application | `C` |
 
 ---
 
@@ -83,14 +83,21 @@ $ cat /etc/profile.d/alsancak.sh
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=hhalsancak70&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhalsancak70&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=hhalsancak70&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhalsancak70&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hhalsancak70&theme=chartreuse-dark&hide_border=true&background=0d1117)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hhalsancak70&theme=chartreuse-dark&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hhalsancak70&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
